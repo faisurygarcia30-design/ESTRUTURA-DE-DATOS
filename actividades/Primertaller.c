@@ -6,7 +6,7 @@ void mostrarArray(int a[], int n);
 void Ascendente(int a[], int n);
 void Descendente(int a[], int n);
 
-int main() {
+int main() {git
     int original[N];
     int copia[N];
     int opcion, i;
@@ -114,4 +114,5 @@ void Descendente(int a[], int n) {
     }
     printf("Resultado final (descendente): ");
     mostrarArray(a, n);
+    // mensajes
 }

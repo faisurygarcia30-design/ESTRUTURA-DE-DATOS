@@ -20,6 +20,8 @@
 			],
 			"group": "build",
 			"detail": "compiler: C:\\MinGW\\bin\\gcc.exe"
+		// mensajes
+	
 		}
 	]
 }
