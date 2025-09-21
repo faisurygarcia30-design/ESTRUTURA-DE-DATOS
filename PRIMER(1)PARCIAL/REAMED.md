@@ -1,4 +1,4 @@
-# primer parcial: Recursividad y Gestión de Datos en C
+# primer(1) parcial: Recursividad y Gestión de Datos en C
 
 # Estudiante
 Ana Faisury Garcia anizares
